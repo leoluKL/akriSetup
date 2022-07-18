@@ -1,0 +1,12 @@
+## global definitions
+azure:
+  SubscriptionID: "c7b2c0ba-6f34-45b8-8764-aaaaaaaa"
+  ResourceGroup: "rgname"
+  #Azure device provisioning service name
+  DPSName: "adpsservice"
+  #Azure device provisioning service scope ID
+  DPSScope: "0ne000Babcd"
+
+## output
+device:
+  name: "edge1"
